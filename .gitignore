@@ -12,3 +12,4 @@ data/AMC001/MASSExport/SER_1101_sl0010_ph0001.dcm
 data/AMC001/MASSExport/SER_1101_sl0012_ph0001.dcm
 data/AMC001/MASSExport/SER_1101_sl0013_ph0001.dcm
 *.dcm
+*.npy
