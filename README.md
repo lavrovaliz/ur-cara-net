@@ -1,5 +1,7 @@
 # Multi-patch consensus U-Net for automated detection and segmentation of carotid arteries on black blood MR images  
-  
+
+Elizaveta Lavrova, Henry C Woodruff, Mohamed Kassem, Zohaib Salahuddin, Sergey Primakov, Paul Nederkoorn, Daniel Bos, Jeroen Hendrikse, M. Eline Kooi, Philippe Lambin  
+    
 This is a repository containing the code for the plaq-u-net paper. If you are going to use it or its parts, please, cite it accordingly.
   
 ## Abstract
