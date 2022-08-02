@@ -1,4 +1,5 @@
 # Multi-patch consensus U-Net for automated detection and segmentation of carotid arteries on black blood MR images  
+[![DOI](https://zenodo.org/badge/481572659.svg)](https://zenodo.org/badge/latestdoi/481572659)  
 
 Elizaveta Lavrova, Henry C Woodruff, Mohamed Kassem, Zohaib Salahuddin, Sergey Primakov, Paul Nederkoorn, Daniel Bos, Jeroen Hendrikse, M. Eline Kooi, Philippe Lambin  
     
