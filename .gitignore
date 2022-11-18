@@ -15,3 +15,5 @@ data/AMC001/MASSExport/SER_1101_sl0013_ph0001.dcm
 *.npy
 res/mask-rcnn_aug.h5
 res/mask-rcnn_simple.h5
+*.gz
+*.nii
