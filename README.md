@@ -1,2 +1,2 @@
 # UR-CarA-Net
-CA segmentation on multi-contrast MRI
+U-Net-based uncertainty-regularized CA segmentation on multi-contrast MRI
